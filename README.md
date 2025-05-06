@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Développeur passionné spécialisé en Python et JavaScript. J'aime créer des solutions élégantes à des problèmes complexes.
+Etudiant en BUT INFO, passionné par le développement.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayyhem&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" />
