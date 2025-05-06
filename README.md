@@ -1,6 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=Nayyhem&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayyhem&layout=compact&theme=tokyonight)
-
 # Bonjour, je suis Nayyhem 👋
 
 ## À propos de moi
@@ -22,12 +19,6 @@ Développeur passionné spécialisé en Python et JavaScript. J'aime créer des 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🌱 Je travaille actuellement sur...
-
-- Améliorer mes compétences en développement web
-- Explorer le machine learning et l'IA
-- Contribuer à des projets open source
-
 ## 📫 Me contacter
 
 <p align="center">
@@ -48,27 +39,3 @@ Développeur passionné spécialisé en Python et JavaScript. J'aime créer des 
   </a>
 </p>
 
-## 📊 Cette semaine, j'ai passé du temps sur...
-
-<!--START_SECTION:waka-->
-```text
-Python      10 hrs 30 mins  ███████████░░░░░░░  60.5%
-JavaScript  4 hrs 15 mins   ██████░░░░░░░░░░░░  30.2%
-HTML/CSS    1 hr 45 mins    ████░░░░░░░░░░░░░░   9.3%
-```
-<!--END_SECTION:waka-->
-
-## 🔥 Mes projets favoris
-
-<a href="https://github.com/Nayyhem/projet-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=projet-1&theme=tokyonight" />
-</a>
-<a href="https://github.com/Nayyhem/projet-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=projet-2&theme=tokyonight" />
-</a>
-
-<!-- Remplacez les noms de projet ci-dessus par vos véritables projets -->
-
----
-
-⭐️ Inspiré par [cet exemple](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
