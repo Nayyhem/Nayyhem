@@ -37,8 +37,5 @@ Etudiant en BUT INFO, passionné par le développement.
   <a href="https://discord.com/users/votre-id-discord">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://dev.to/votre-pseudo">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
 </p>
 
