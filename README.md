@@ -25,16 +25,12 @@ Etudiant en BUT INFO, passionné par le développement.
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://linkedin.com/in/votre-profil">
+  <a href="https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/quentin-baillet-065005328/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bquentin62@orange.fr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/Nayyhem">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.com/users/votre-id-discord">
+  <a href="https://discord.com/_nayyhem_">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
