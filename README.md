@@ -1,6 +1,6 @@
 # Bonjour, je suis Nayyhem 👋
 
-## À propos de moi
+## Information
 
 Je m'appelle Quentin, étudiant en 2e année de BUT Informatique. J'aime transformer les idées en code et relever des défis techniques, surtout en backend et dev système.<br><br>
 🎯 Je suis actuellement à la recherche d’une alternance de 18 mois / stage en développement backend ou logiciel pour approfondir mes compétences.
