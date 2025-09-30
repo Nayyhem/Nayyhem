@@ -47,12 +47,6 @@ Je m'appelle Quentin, étudiant en 2e année de BUT Informatique. J'aime transfo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## Systèmes d'Exploitation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch_Linux"/>
-</p>
-
 ## 📫 Me contacter
 
 <p align="center">
