@@ -1,7 +1,8 @@
 <!-- Bannière animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Quentin&fontSize=50&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Quentin%20Baillet&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Développeur%20Backend%20%7C%20En%20recherche%20d'alternance&descSize=20&descAlignY=55"/>
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Développeur+Backend+Passionné;Étudiant+BUT2+Informatique;Recherche+d'une+alternance+18+mois" alt="Typing SVG" />
