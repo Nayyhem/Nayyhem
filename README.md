@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-667eea?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20To-Alternance%2018%20mois-764ba2?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Architecture%20Backend-f093fb?style=for-the-badge&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend-f093fb?style=for-the-badge&logo=serverfault&logoColor=white"/>
 </p>
 
 ---
