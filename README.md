@@ -57,6 +57,20 @@ func main() {
 ⚙️ **Architecture Backend** — Concevoir des systèmes robustes, maintenables et performants  
 🚀 **Innovation Continue** — Toujours curieux d'apprendre de nouvelles technologies et méthodologies
 
+## 🚀 Projets
+
+<div align="center">
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Nayyhem/passwordGenerator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=password-manager&theme=react&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&hide_border=true" />
+  </a>
+  <a href="https://github.com/Nayyhem/vpn-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=vpn-project&theme=react&bg_color=0d1117&title_color=764ba2&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
+  </a>
+</p>
 ---
 
 ## 📊 Statistiques GitHub
