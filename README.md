@@ -166,6 +166,9 @@ func main() {
   <a href="https://discord.com/users/_nayyhem_">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://github.com/Nayyhem/Nayyhem/blob/main/assets/cv.pdf">
+    <img src="https://img.shields.io/badge/CV-Télécharger-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
+  </a>
 </p>
 
 <p align="center">
