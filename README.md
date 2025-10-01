@@ -166,12 +166,12 @@ func main() {
   <a href="https://discord.com/users/_nayyhem_">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://github.com/Nayyhem/Nayyhem/tree/main/blob/main/assets/CV-Quentin-Baillet.pdf">
-    <img src="https://img.shields.io/badge/CV-Télécharger-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
-  </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/Nayyhem/Nayyhem/tree/main/blob/main/assets/CV-Quentin-Baillet.pdf">
+    <img src="https://img.shields.io/badge/CV-Télécharger-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Nayyhem&color=667eea&style=for-the-badge&label=Visiteurs" alt="Profile views"/>
 </p>
 
