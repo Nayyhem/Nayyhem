@@ -68,10 +68,14 @@ func main() {
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayyhem&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=667eea&title_color=764ba2&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayyhem&layout=compact&bg_color=0d1117&text_color=c9d1d9&icon_color=667eea&title_color=764ba2&border_color=30363d&hide_border=false&langs_count=8" height="170"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayyhem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayyhem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayyhem&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -179,15 +183,17 @@ func main() {
   <a href="https://github.com/Nayyhem/Nayyhem/tree/main/blob/main/assets/CV-Quentin-Baillet.pdf">
     <img src="https://img.shields.io/badge/CV-Télécharger-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Nayyhem&color=667eea&style=for-the-badge&label=Visiteurs" alt="Profile views"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>💼 Actuellement à la recherche d'une alternance de 18 mois — N'hésitez pas à me contacter !</i>
+  <i>💼 Actuellement à la recherche d'une alternance de 18 mois</i>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 </p>
+</div>
+
+
