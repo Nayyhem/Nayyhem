@@ -53,7 +53,7 @@ console.log("👋 Bonjour ! Passionné par le code et toujours prêt à apprendr
 
 <p align="center">
   <a href="https://github.com/Nayyhem/linkchecker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=password-manager&theme=react&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=linkchecker&theme=react&bg_color=0d1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&hide_border=true" />
   </a>
   <a href="https://github.com/Nayyhem/bomberman">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=vpn-project&theme=react&bg_color=0d1117&title_color=764ba2&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
