@@ -1,6 +1,6 @@
 <!-- Bannière animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Quentin%20Baillet&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Développeur%20Backend%20%7C%20En%20recherche%20d'alternance&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:3B82F6&height=300&section=header&text=Quentin%20Baillet&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Développeur%20Backend%20%7C%20En%20recherche%20d'alternance&descSize=20&descAlignY=65&animation=fadeIn"/>
 </p>
 
 
@@ -18,37 +18,31 @@
 
 ## 🎯 À propos de moi
 
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-    Name        string
-    Role        string
-    Location    string
-    Education   string
-    Passions    []string
-    CurrentGoal string
+```typescript
+interface Developer {
+    name: string;
+    role: string;
+    location: string;
+    education: string;
+    passions: string[];
+    currentGoal: string;
 }
 
-func main() {
-    quentin := Developer{
-        Name:        "Quentin",
-        Role:        "Backend Developer",
-        Location:    "France 🇫🇷",
-        Education:   "BUT2 Informatique",
-        Passions: []string{
-            "Transformer les idées en code",
-            "Relever des défis techniques",
-            "Architecture backend robuste",
-            "Apprendre de nouvelles technologies et méthodologies",
-        },
-        CurrentGoal: "Alternance 18 mois",
-    }
-    
-    fmt.Println("👋 Bonjour ! Passionné par le code et toujours prêt à apprendre.")
-}
+const quentin: Developer = {
+    name: "Quentin Baillet",
+    role: "Backend Developer",
+    location: "France 🇫🇷",
+    education: "BUT2 Informatique",
+    passions: [
+        "Transformer les idées en code",
+        "Relever des défis techniques",
+        "Architecture backend robuste",
+        "Apprendre de nouvelles technologies"
+    ],
+    currentGoal: "Alternance 18 mois"
+};
+
+console.log("👋 Bonjour ! Passionné par le code et toujours prêt à apprendre.");
 ```
 
 ## 🚀 Projets
