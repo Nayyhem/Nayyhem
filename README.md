@@ -51,12 +51,6 @@ func main() {
 }
 ```
 
-### 💡 Ce qui me motive
-
-🔨 **Transformer les idées en réalité** — J'adore donner vie aux concepts et résoudre des problèmes complexes  
-⚙️ **Architecture Backend** — Concevoir des systèmes robustes, maintenables et performants  
-🚀 **Innovation Continue** — Toujours curieux d'apprendre de nouvelles technologies et méthodologies
-
 ## 🚀 Projets
 
 <div align="center">
@@ -71,7 +65,6 @@ func main() {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayyhem&repo=vpn-project&theme=react&bg_color=0d1117&title_color=764ba2&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
   </a>
 </p>
----
 
 ## 📊 Statistiques GitHub
 
