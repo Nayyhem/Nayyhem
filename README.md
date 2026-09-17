@@ -30,16 +30,16 @@ interface Developer {
 
 const quentin: Developer = {
     name: "Quentin Baillet",
-    role: "Backend Developer",
+    role: "Backend FullStack",
     location: "France 🇫🇷",
-    education: "BUT2 Informatique",
+    education: "BUT3 Informatique",
     passions: [
         "Transformer les idées en code",
         "Relever des défis techniques",
         "Architecture backend robuste",
         "Apprendre de nouvelles technologies"
     ],
-    currentGoal: "Alternance 18 mois"
+    currentGoal: "Stage 12 - 14 semaines"
 };
 
 console.log("👋 Bonjour ! Passionné par le code et toujours prêt à apprendre.");
