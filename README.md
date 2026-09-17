@@ -1,6 +1,6 @@
 <!-- Bannière animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:3B82F6&height=300&section=header&text=Quentin%20Baillet&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Développeur%20Backend%20%7C%20En%20recherche%20d'alternance&descSize=20&descAlignY=65&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:3B82F6&height=300&section=header&text=Quentin%20Baillet&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Développeur%FullStackk%20%7C%20En%20recherche%20de'stage&descSize=20&descAlignY=65&animation=fadeIn"/>
 </p>
 
 
