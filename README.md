@@ -161,7 +161,7 @@ console.log("👋 Bonjour ! Passionné par le code et toujours prêt à apprendr
 ---
 
 <p align="center">
-  <i>💼 Actuellement à la recherche d'une alternance de 18 mois</i>
+  <i>💼 Actuellement à la recherche d'un stage de 12-14 semaines</i>
 </p>
 
 <p align="center">
