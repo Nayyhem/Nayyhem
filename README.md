@@ -1,17 +1,17 @@
 <!-- Bannière animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:3B82F6&height=300&section=header&text=Quentin%20Baillet&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Développeur%FullStackk%20%7C%20En%20recherche%20de'stage&descSize=20&descAlignY=65&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:3B82F6&height=300&section=header&text=Quentin%20Baillet&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Développeur%20FullStack%20%7C%20En%20recherche%20de%20stage&descSize=20&descAlignY=65&animation=fadeIn"/>
 </p>
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Passionné+par+le+développement;Développeur+FullStack;Étudiant+BUT3+Informatique;Recherche+d'une+alternance+18+mois" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Passionné+par+le+développement;Développeur+FullStack;Étudiant+BUT3+Informatique;Recherche+de+stage+12+14semaines" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-667eea?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20To-Alternance%2018%20mois-764ba2?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Backend-f093fb?style=for-the-badge&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FullStack-Developer-667eea?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20To-Stage%2012%2014%20semaines-764ba2?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-FullStack-f093fb?style=for-the-badge&logo=serverfault&logoColor=white"/>
 </p>
 
 ---
